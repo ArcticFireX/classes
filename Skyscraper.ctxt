@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Skyscraper
+comment0.text=\n\ \ \ A\ skyscraper\ shape\ that\ can\ be\ positioned\ anywhere\ on\ the\ screen.\n
+comment1.params=Xpara
+comment1.target=Skyscraper(int)
+comment1.text=\n\ \ \ \ \ \ Constructs\ a\ skyscraper\ with\ a\ given\ top\ left\ corner.\n\ \ \ \ \ \ @param\ xLeft\ the\ x\ coordinate\ of\ the\ top\ left\ corner\n\ \ \ \ \ \ @param\ yBottom\ the\ y\ coordinate\ of\ the\ top\ left\ corner\n
+comment2.params=g2
+comment2.target=void\ draw(java.awt.Graphics2D)
+comment2.text=\n\ \ \ \ \ \ Draws\ the\ skyscraper.\n\ \ \ \ \ \ @param\ g2\ the\ graphics\ context\n
+numComments=3
